@@ -184,7 +184,6 @@ At Karnak, several structures are owed to Taharqa including:
         Taharqa also added a colonnade to the <a href="https://en.wikipedia.org/wiki/History_of_the_Karnak_Temple_complex">Precinct of Montu</a>
     </li>
 </ul>
-https://www.metmuseum.org/about-the-met/curatorial-departments/egyptian-art/temple-of-dendur-50/nubia
 
 Nubia contains over 220 <a href="https://www.aljazeera.com/indepth/inpictures/2015/04/forgotten-pyramids-sudan-150405062541595.html">pyramids</a>, built over a period of hundreds of years, to serve as headstones on top of tombs for Kushite kings, queens and wealthy citizens of Napata and Meroë. They are smaller but greater in number than the pyramids of Egypt. 
 
