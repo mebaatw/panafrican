@@ -91,13 +91,13 @@ The A-Group culture came to an end around 3100 BC, when it was destroyed by the 
 The A-Group culture was followed later by the C-Group culture (2200-1500 BCE). Settlements consisted of round structures with stone floors. The C-Group culture had roots in sub-saharan African culture: 
 
 <blockquote>Small circular houses with stone foundations, handmade ceramics with elaborate incised decoration, and graves covered with circular stone mounds are features that C-Group shared with earlier Nubian A-Group and Pre-Kerma cultures. But the importance of cattle in the C-Group, shown in its burial stelae, pottery, figurines, and rock drawings, also links it firmly to the African cattle cultures that began in the Neolithic and then spread across sub-Saharan Africa.<sup>[21]</sup></blockquote>
-
+<br/>
 
 The C-Group culture also had deep ties with Egypt:
 
 <blockquote> C-Group cemeteries are found as far north as Hierakonpolis in southern Egypt, and Egyptians traveled and traded in Nubia. Many Nubians were soldiers in Egyptian armies. Nubian troops featured prominently in warfare during Egypt’s First Intermediate Period (about 2100 BC), a time of civil unrest. Egyptian traders and returning Nubian soldiers brought Egyptian goods including amulets, pots, and valuable gold and silver necklaces to Nubia. Though first ruled by Egypt and then by Kerma, C-Group culture retained its own distinctive customs for centuries. Later, C-Group traditions became less visible in archaeological remains as Nubians adopted Egyptian styles during the Egyptian New Kingdom occupation of Nubia (1550–1069 BC).<sup>[21]</sup></blockquote>
 
-
+<br/>
 The C-Group culture was related to the Kerma Culture. Archeologists uncovered several ancient constructions dating back to the pre-Kerma period (4th millennium BC- 2600 BC).<sup>[3]</sup>
 
 <blockquote> The planning of the major Pre-Kerma settlement, in the locality of the Eastern Kerma Cemetery, reveals an urban architectural system, where monumental buildings, rectangular storage houses, cattle pens, palisades, and storehouses were uncovered. Exceptionally large huts, with one reaching 7 meters in diameter, found there have been interpreted by some as residence of wealthy individuals.
