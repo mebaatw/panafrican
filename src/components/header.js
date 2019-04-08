@@ -28,6 +28,29 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <div> 
+      <Link to="/"  style={{
+              color: `white`,
+              textDecoration: `none`,
+              margin: '10px'
+            }}>Home</Link>
+
+        <spn style={{ color: `white`}}>|</spn> 
+
+        <Link to="/collections/"  style={{
+              color: `white`,
+              textDecoration: `none`,
+              margin: '10px'
+            }}>Collections</Link>
+
+        <spn style={{ color: `white`}}>|</spn> 
+
+        <Link to="/countries/"  style={{
+              color: `white`,
+              textDecoration: `none`,
+              margin: '10px'
+            }}>Search Country</Link>
+      </div>
   </header>
 )
 
