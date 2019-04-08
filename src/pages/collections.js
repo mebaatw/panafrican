@@ -7,7 +7,7 @@ export default ({ data }) => {
     // const post = data.allMarkdownRemark.edges.node
    return (
      <Layout>
-         cat
+         
        {data.allMarkdownRemark.group.map((g,i) =>(
        <div key={i}>
            <Link  to={g.fieldValue}>
