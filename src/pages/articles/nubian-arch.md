@@ -78,7 +78,7 @@ Early Nubian architecture was found in the A-Group culture(c. 3800 BC to c. 3100
 
 Excavations at an A-Group cemetery in <a href="https://en.wikipedia.org/wiki/Qustul">Qustul</a> yielded an old incense burner, which was adorned with Ancient Egyptian royal iconography:
 
-<blockquote>This incense burner is distinctively Nubian in form. Carved in the technique of Nubian rock art, it is decorated on the rim with typical Nubian designs. It was found in the tomb of a Nubian ruler at Qustul and incorporates images associated with Egyptian pharaohs: a procession of sacred boats, the White Crown of Upper Egypt, a falcon deity, and the palace facade called a serekh. It appears to represent a ritual that involved a royal procession by boat to a palace.
+<blockquote>This incense burner is distinctively Nubian in form. Carved in the technique of Nubian rock art, it is decorated on the rim with typical Nubian designs. It was found in the tomb of a Nubian ruler at Qustul and incorporates images associated with Egyptian pharaohs: a procession of sacred boats, the White Crown of Upper Egypt, a falcon deity, and the palace facade called a serekh. It appears to represent a ritual that involved a royal procession by boat to a palace.<br/>
 
 The scenes depicted on the Qustul Incense Burner have excited considerable interest and discussion - why would seemingly Egyptian symbols have been used in Nubia?
 
@@ -98,7 +98,7 @@ The C-Group culture also had deep ties with Egypt:
 <blockquote> C-Group cemeteries are found as far north as Hierakonpolis in southern Egypt, and Egyptians traveled and traded in Nubia. Many Nubians were soldiers in Egyptian armies. Nubian troops featured prominently in warfare during Egypt’s First Intermediate Period (about 2100 BC), a time of civil unrest. Egyptian traders and returning Nubian soldiers brought Egyptian goods including amulets, pots, and valuable gold and silver necklaces to Nubia. Though first ruled by Egypt and then by Kerma, C-Group culture retained its own distinctive customs for centuries. Later, C-Group traditions became less visible in archaeological remains as Nubians adopted Egyptian styles during the Egyptian New Kingdom occupation of Nubia (1550–1069 BC).<sup>[21]</sup></blockquote>
 
 <br/>
-The C-Group culture was related to the Kerma Culture. Archeologists uncovered several ancient constructions dating back to the pre-Kerma period (4th millennium BC- 2600 BC).<sup>[3]</sup>
+The C-Group culture was related to the Kerma Culture. Archeologists uncovered several ancient constructions dating back to the pre-Kerma period (4th millennium BC- 2600 BC).<sup>[3]</sup><br/>
 
 <blockquote> The planning of the major Pre-Kerma settlement, in the locality of the Eastern Kerma Cemetery, reveals an urban architectural system, where monumental buildings, rectangular storage houses, cattle pens, palisades, and storehouses were uncovered. Exceptionally large huts, with one reaching 7 meters in diameter, found there have been interpreted by some as residence of wealthy individuals.
 
@@ -114,7 +114,7 @@ Kerma (also known as Dukki Gel) was the capital city of the Kerma culture in pre
 
 It was a walled city containing a religious building, large circular dwelling, a palace, and well laid out roads. 
 
-<blockquote>Kerma has been excavated by a Swiss team for more than 30 years. The team has discovered the remains of temples, cemeteries and a city wall with bastions. Their discoveries reveal that the city was a center for trade with gold, ivory and cattle among other commodities being traded by Kerma's inhabitants. The exact amount of territory that Kerma controlled is uncertain, but it appears to have encompassed part of what is now Sudan and southern Egypt.<sup>[6]</sup></blockquote>
+<blockquote>Kerma has been excavated by a Swiss team for more than 30 years. The team has discovered the remains of temples, cemeteries and a city wall with bastions. Their discoveries reveal that the city was a center for trade with gold, ivory and cattle among other commodities being traded by Kerma's inhabitants. The exact amount of territory that Kerma controlled is uncertain, but it appears to have encompassed part of what is now Sudan and southern Egypt.<sup>[6]</sup></blockquote><br/>
 
 
 Bronze forges were excavated by Bonnet’s Swiss team in the Kerma main city. <blockquote>It is within the walls of the religious center that a bronze workshop was built. The workshop consisted of multiple forges and the artisans’ techniques appear to have been quite elaborate. There is no comparable discovery in Egypt or in Sudan to help us interpret these remains<sup>[9]</sup></blockquote>
@@ -123,7 +123,7 @@ Kerma was built around a large adobe temple known as the  Deffufa, a mud brick t
 
 The deffufa is a unique structure in Nubian Architecture. Three known deffufas exist: the <a href="https://commons.wikimedia.org/wiki/Category:Western_Deffufa">Western Deffufa</a> at Kerma,  <a href="http://www.traveladventures.org/continents/africa/kerma-deffufas04.html">Eastern Deffufa</a>, and a third, little-known deffufa. 
 
-<blockquote>The Western Deffufa forms an imposing sight in the vicinity of the small Sudanese town of Kareema. Like the other Deffufas, it was built of thick mud-brick walls to provide cooler temperature in the hot climate. The structure is comprised of three stories and stretches over an area of 15,070 sq feet and is about 18 m. tall. The Deffufa is farther surrounded by a boundary wall.
+<blockquote>The Western Deffufa forms an imposing sight in the vicinity of the small Sudanese town of Kareema. Like the other Deffufas, it was built of thick mud-brick walls to provide cooler temperature in the hot climate. The structure is comprised of three stories and stretches over an area of 15,070 sq feet and is about 18 m. tall. The Deffufa is farther surrounded by a boundary wall.<br/>
 
 
 Inside the Deffufa were columned chambers connected by a complex network of passageways. The walls were lavishly decorated with faience tiles and inlays and gold leaf. Magnificent paintings showing exotic scenes of the wild-life from the sub-Sahara served as visual luxury in Kerma's arid environment. A staircase seems to have lead to a shrine on the roof of the building. Evidence of a limestone altar, built for animal sacrifice, was also found. The repeated works of construction and development efforts indicate the centrality of the monument in the town of Kerma; most likely the town's principal temple.<sup>[7]</sup></blockquote>
@@ -134,7 +134,7 @@ The third deffufa is of similar structure as the Eastern Deffufa.
 
 Kerma contains a cemetery with over 30,000 graves. The cemetery shows a general pattern of larger graves ringed by smaller ones, suggesting social stratification.
 
-<blockquote>The people of Kerma people buried their dead in niche cut pits. A tumulus or a mound superstructure of sand and gravel, sometimes reaching 90 meters in diameter, was built over the graves of royal persons. The size of the mound indicated the social rank of the deceased person when alive. The larger the tumulus, the higher in rank the owner was; and the smaller it is, the lower in status.
+<blockquote>The people of Kerma people buried their dead in niche cut pits. A tumulus or a mound superstructure of sand and gravel, sometimes reaching 90 meters in diameter, was built over the graves of royal persons. The size of the mound indicated the social rank of the deceased person when alive. The larger the tumulus, the higher in rank the owner was; and the smaller it is, the lower in status.<br/>
 
 
 A distinctive element of the Kerma culture was the unique bed burial tradition. The distinctive design and manufacture of the Kerma bed didn't change over time; it represents the traditional Sudanese bed today and is called Angaraib. The deceased was placed on top of the bed. The bed was then placed in the middle of the tomb chamber. On some cases, mummification was conducted on deceased kings and royal persons. The body was usually laid in a contracted body position with the head towards the east.
@@ -154,7 +154,7 @@ In 1075 BCE fragmentation of power in Egypt allowed the Nubians to regain autono
 
 The reunited Egyptian empire under the 25th dynasty was as large as it had been since the New Kingdom and ushered in a renaissance. 
 
-<blockquote>...the 25th Dynasty "Negro" kings are now recognized as having sponsored an important renaissance of Egyptian art and culture; they developed an almost scholarly interest in ancient Egyptian traditions and language and have been called "the first Egyptologists." The empire over which they presided was greater in extent than any ever achieved in antiquity along the Nile Valley. Their kings were said never to have condemned prisoners to death; they forgave their enemies and allowed them to retain their offices; they also actually gave public credit for achievement in their inscriptions to individuals other than themselves. Such characteristics among other ancient monarchs of Egypt or the Near East are unheard of, and we can only assume these were native Nubian qualities.<sup>[10]</sup></blockquote>
+<blockquote>...the 25th Dynasty "Negro" kings are now recognized as having sponsored an important renaissance of Egyptian art and culture; they developed an almost scholarly interest in ancient Egyptian traditions and language and have been called "the first Egyptologists." The empire over which they presided was greater in extent than any ever achieved in antiquity along the Nile Valley. Their kings were said never to have condemned prisoners to death; they forgave their enemies and allowed them to retain their offices; they also actually gave public credit for achievement in their inscriptions to individuals other than themselves. Such characteristics among other ancient monarchs of Egypt or the Near East are unheard of, and we can only assume these were native Nubian qualities.<sup>[10]</sup></blockquote><br/>
 
 
 The Nubian Pharaohs, such as <a href="https://en.wikipedia.org/wiki/Taharqa">Taharqa</a>, built or restored temples and monuments throughout the Nile Valley, including at <a href="https://en.wikipedia.org/wiki/Jebel_Barkal">Jebel Barkal</a>, <a href="https://en.wikipedia.org/wiki/Memphis,_Egypt">Memphis</a>, <a href="https://en.wikipedia.org/wiki/Karnak">Karnak</a>, <a href="https://en.wikipedia.org/wiki/Kawa_(Sudan)">Kawa</a>,  and elsewhere.
@@ -167,7 +167,7 @@ The Temple of Amun was originally built during the Egyptian New Kingdom but grea
 ruled by the will of Amun. He commenced extensive building work at the temple of Amun at Gebel Barkal, and Grimal (1995, p.340) theorizes that to the Kushites, “The Gebel Barkal
 temple was therefore a replica of the temple of Amun in Karnak” and notes how each king after Piye enlarged upon it, in much the same way had been done at Karnak. Perhaps his work  there was a deliberate attempt to start this trend, or was simply an expression of the power and resources that had been given to him by his god. Piye’s stele is certainly not an isolated example of Amun “fundamentalism”, but is a part of a wider context in which Piye can be seen to be attempting to recreate a time of prosperity and devotion to the god that he worshipped. Myśliwiec (2000, p.84) notes “the perfection with which stress is apportioned
 and appropriate proportions are maintained with regard to its political and religious aspects”, in a “carefully thought-out and didactic manner”. This should demonstrate to us how the stele was a carefully planned way to present Piye in the way that he wanted to be remembered –
-not as a master political lord, but primarily as a worshipper of Amun. <sup>[14]</sup></blockquote>
+not as a master political lord, but primarily as a worshipper of Amun. <sup>[14]</sup></blockquote><br/>
 
 
 Other temples include <a href="https://www.alamy.com/stock-photo-wall-reliefs-on-the-osirian-temple-of-taharqa-in-the-karnak-temple-113673461.html">Temple of Taharqa</a> (B200); Taharqa's other temples:<a href="https://en.wikipedia.org/wiki/Temple_of_Mut,_Jebel_Barkal">Temples for Mut</a>, <a href="http://www.jebelbarkal.org/frames/B200300.pdf">Hathor</a>, and Bes (B300);  B501 (outer court), B502 (hypostyle hall), B700 (temple), B800sub (temple of <a href="https://en.wikipedia.org/wiki/Alara_of_Nubia">Alara of Nubia</a>), B1200 (palace). In all thirteen temples and three palaces have been excavated by Reisner, labeling its monuments B for Barkal.
@@ -208,16 +208,14 @@ Meroë is considered to be the largest archaeological site in the world. It cont
 
 The culture shows a mixture of indigenous and Egyptian influences:
 
-<blockquote>"Meroitic culture shows much Egyptian influence, always mixed with local ideas. Many temples housed cults to Egyptian gods like Amun (called Amani) and Isis, but indigenous deities received royal patronage as well. A very prominent Nubian god was the lion-deity Apedemak, a god of war whose popularity increased substantially in this period. Local gods were often associated with Egyptian ones: in Lower Nubia, Mandulis, for example, was considered to be Horus's son. 
-
+<blockquote>"Meroitic culture shows much Egyptian influence, always mixed with local ideas. Many temples housed cults to Egyptian gods like Amun (called Amani) and Isis, but indigenous deities received royal patronage as well. A very prominent Nubian god was the lion-deity Apedemak, a god of war whose popularity increased substantially in this period. Local gods were often associated with Egyptian ones: in Lower Nubia, Mandulis, for example, was considered to be Horus's son. <br/>
 
 Hybridity is also visible in the arts and in royal ideology. For example, kings of Meroe were represented in monumental images on temples in Egyptian fashion but with local elements, such as garments, crowns, and weapons.<sup>[15]</sup></blockquote>
 
 
 The ancient Nubians established a system of geometry including early versions of sun clocks. Many are located at the sites of Meroë.The ancient Nubians used a trigonometric methodology similar to the Egyptians.<sup>[17]</sup>
 
-<blockquote>"Mapping of standing stones and megalithic structures at Nabta in the Nubian Desert, 500 miles south of Cairo, suggests that the Neolithic nomads who once inhabited the area were not only monitoring the heavens, but recording what they saw in monumental form. According to an article in Nature by J. McKim Malville of the University of Colorado, Fred Wendorf of Southern Methodist University, and others, the megaliths were placed in deposits that probably accumulated between 7,000 and 6,700 years ago in a playa inundated by summer rains.
-
+<blockquote>"Mapping of standing stones and megalithic structures at Nabta in the Nubian Desert, 500 miles south of Cairo, suggests that the Neolithic nomads who once inhabited the area were not only monitoring the heavens, but recording what they saw in monumental form. According to an article in Nature by J. McKim Malville of the University of Colorado, Fred Wendorf of Southern Methodist University, and others, the megaliths were placed in deposits that probably accumulated between 7,000 and 6,700 years ago in a playa inundated by summer rains.<br/>
 
 Alignments of standing stones and megalithic structures (oval clusters of recumbent stones) extend for up to a mile, marking north and east as well as 24 to 28 and 126 degrees east of north, directions whose meanings are still being worked out. A ten-foot circle composed primarily of stone slabs has four "windows" marked by pairs of standing stones; the four are arranged in two pairs, one forming a north-south line of sight and the other a line stretching from 62 to 298 degrees east of north. The latter coincides approximately with the summer solstice sunrise 6,000 years ago, which would have fallen about 63 degrees east of north.
 
@@ -232,8 +230,7 @@ The Christianization of Nubia began in the 6th century AD. Its most representati
 
 Construction of the churches varried depending on climate of and region:
 
-<blockquote>Cut stone, generally quarried from nearby temples, was the preferred material for the earliest Nubian churches. Roughly dressed native stone, laid in heavy mortar, was also employed. There was some use of mud brick in the smaller churches from the beginning, and in later centuries it became the almost universal building material. Only in the extreme north and the extreme south of Nubia - both areas subject to occasional rainfall - was there some continued use of stone in later times. Red (fired) brick was rarely used except for repairs and secondary construction. Only one church in Lower Nubia, at Faras West, was built primarily of red brick. On the other hand, several churches in Upper Nubia, at Sai, Old Dongola (Church of the Columns), Gandesi, and El Usheir, appear to have been built of red brick.
-
+<blockquote>Cut stone, generally quarried from nearby temples, was the preferred material for the earliest Nubian churches. Roughly dressed native stone, laid in heavy mortar, was also employed. There was some use of mud brick in the smaller churches from the beginning, and in later centuries it became the almost universal building material. Only in the extreme north and the extreme south of Nubia - both areas subject to occasional rainfall - was there some continued use of stone in later times. Red (fired) brick was rarely used except for repairs and secondary construction. Only one church in Lower Nubia, at Faras West, was built primarily of red brick. On the other hand, several churches in Upper Nubia, at Sai, Old Dongola (Church of the Columns), Gandesi, and El Usheir, appear to have been built of red brick.<br/>
 
 Many if not all of the earliest churches had flat, timbered roofs which were supported on monolithic columns. However, suitable timber soon became scarce, and in later centuries all Nubian churches had vaulted brick roofs, often with a central dome or cupola. Because of the peculiar unwieldiness of the Nubian vault, this method of construction necessitated in every case the replacement of stone columns by stout masonry piers. The last church in Lower Nubia to be built with columns and (presumably) a flat roof was the South Kom Church at Faras, dedicated in 930 AD...
 
