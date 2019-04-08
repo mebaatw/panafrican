@@ -96,11 +96,10 @@ export default ({ data }) => {
               post.frontmatter.refs.map((item,i) =>{
                 return ( 
                   
-                      <div style={{ padding: ` 1rem` , margin:`0px`}}  key={i}>
+                      <div style={{ padding: ` .1rem` , margin:`0px`}}  key={i}>
                            <i style={{ margin: `.5rem`, padding: `0rem`}}> {item.ref} {" "}
                            {item.url.length===0?'': <a href={item.url}>Link</a>}
                            </i>
-
                       </div>
                   
                 );
