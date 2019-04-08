@@ -33,29 +33,38 @@ url: [
         {id: 1, url: 'https://www.academia.edu/11351807/Traces_of_a_vibrant_Vernacular_Nubian_Architecture_in_Egypt', title: 'Traces of a vibrant Vernacular Nubian Architecture in Egypt', desc: '' },
         {id: 1, url: 'https://www.egypttoursplus.com/nubian-village/', title: 'The Nubian Village – A Great Place To Visit On Elephantine Island', desc: '' },
         {id: 1, url: 'https://www.cnn.com/2016/12/30/africa/nubian-homes/index.html', title: '$150 homes revive ancient techniques to fight climate crisis', desc: '' },
-        {id: 1, url: '', title: '', desc: '' },
+        {id: 1, url: 'https://www.metmuseum.org/about-the-met/curatorial-departments/egyptian-art/temple-of-dendur-50/nubia', title: 'The Land of Nubia', desc: '' },
+        {id: 1, url: 'https://www.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/new-kingdom/a/karnak', title: 'Temple of Amun-Re and the Hypostyle Hall, Karnak', desc: '' },
+        {id: 1, url: '', title: '', desc: '' }
+        
     ]
 refs: [
          {id: 1,  ref: 'Wikipedia contributors. (2019, March 4). Nubian architecture. In Wikipedia, The Free Encyclopedia. Retrieved 17:40, March 24, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Nubian_architecture&oldid=886125809'},
-         {id: 1,  ref: '1. Bianchi, Robert Steven. Daily Life of the Nubians. Westport: Greenwood Press, 2004, pp. 227, ISBN 0-313-32501-4', url: ''},
-         {id: 1,  ref: '2. Mokhtar (editor)(1990), Ancient Civilizations of Africa Vo. II, General History of Africa, UNESCO, p. 247.', url: ''},
-         {id: 1,  ref: '3. "Ancient Sudan~ Nubia: Burials: Early: A-Group and C-Group". www.ancientsudan.org. Retrieved 2018-03-14.', url: 'http://www.ancientsudan.org/burials_02_early.htm'},
-         {id: 1,  ref: '4. Bietak, Manfred. The C-Group culture and the Pan Grave culture Archived 2014-12-31 at the Wayback Machine. Cairo: Austrian Archaeological Institute', url: 'http://www.numibia.net/nubia/c-group.htm'},
-         {id: 1,  ref: '5. Clammer, Paul(2005). Bradt Travel Guide Sudan. Bradt Travel Guides, pp. 159,160, ISBN 1-84162-114-5, ISBN 978-1-84162-114-2.', url: ''},
-         {id: 1,  ref: '6. http://www.ancientsudan.org/arthistory_01_kermatemples.htm', url: 'http://www.ancientsudan.org/arthistory_01_kermatemples.htm'},
-         {id: 1,  ref: '7. Education Development Center, Inc. Kerma, the First Nubian City,Nubianet.', url: ''},
-         {id: 1,  ref: '8. Kathryn A. Bard, Steven Blake Shubert(1999). Encyclopedia of the archaeology of ancient Egypt. Rutledge: p. 326, ISBN 0-415-18589-0, ISBN 978-0-415-18589-9.', url: ''},
-         {id: 1,  ref: '9. Kendall, Timothy. The 25th Dynasty Archived 2009-04-30 at the Wayback Machine. Nubia Museum Archived 2009-06-15 at the Wayback Machine: Aswan', url: ''},
-         {id: 1,  ref: '10. Kendall, Timothy. The Meroitic State: Nubia as a Hellenistic African State. 300 B.C.-350 AD Archived 2006-05-05 at the Wayback Machine. Nubia Museum Archived 2009-06-15 at the Wayback Machine:Aswan', url: ''},
-         {id: 1,  ref: '11. Depuydt, Leo (1998). "Gnomons at Meroë and Early Trigonometry". The Journal of Egyptian Archaeology. 84: 171–180. doi:10.2307/3822211. JSTOR 3822211.', url: ''},
-         {id: 1,  ref: '12. "Neolithic Skywatchers - Archaeology Magazine Archive". www.archaeology.org. Retrieved 2018-03-14.', url: 'https://archive.archaeology.org/online/news/nubia.html'},
-         {id: 1,  ref: '13. Neugebauer, O. (2004-09-17). A History of Ancient Mathematical Astronomy. Springer Science & Business Media. ISBN 9783540069959.', url: 'https://books.google.com/books?id=vO5FCVIxz2YC&pg=PA744&lpg=PA744&dq=Nubia+trigonometry&source=bl&ots=6mhErR-Ogv&sig=9e5clN3CJvGPXnUPfnOR5huE4vU&hl=en&ei=Z3OqTZu9JK6L0QHK24H5CA&sa=X&oi=book_result&ct=result&resnum=36&ved=0CK4BEOgBMCM#v=onepage&q=nubia&f=false'},
-         {id: 1,  ref: '14. Grossmann, Peter. Christian Nubia and Its Churches Archived 2009-05-16 at the Wayback Machine. Cairo: German Archaeological Institute', url: 'http://www.numibia.net/nubia/christian.htm'},
-         {id: 1,  ref: '15. Shinnie, P.L. Medieval Nubia. Khartoum:Sudan Antiquities Service,1954', url: ''},
-         {id: 1,  ref: '16. Swan, Simone. Elegant Solutions. Saudi Aramco World, July/August 1999, Volume 50, Number 4.', url: ''},
-         {id: 1,  ref: '17. Ismail Kamal Kushkush. Sudan''s Ancient Mosque Discovery. IslamOnline.net,Thu. Nov. 13, 2008.', url: ''},
-         {id: 1,  ref: '18. Education Development Center, Inc.(1994-2001) Nubia and Islam: 1400-the present,Nubianet.', url: ''},
-         {id: 1,  ref: '', url: ''}
+         {id: 1,  ref: 'Wikipedia contributors. (2019, February 20). Napata. In Wikipedia, The Free Encyclopedia. Retrieved 23:11, April 4, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Napata&oldid=884208750'},
+         {id: 1,  ref: 'Wikipedia contributors. (2019, March 8). Kerma. In Wikipedia, The Free Encyclopedia. Retrieved 23:13, April 4, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Kerma&oldid=886792256'},
+         {id: 1,  ref: 'Wikipedia contributors. (2018, October 12). Nubian pyramids. In Wikipedia, The Free Encyclopedia. Retrieved 18:42, April 6, 2019, from ', url: 'https://en.wikipedia.org/w/index.php?title=Nubian_pyramids&oldid=863742542'},
+         {id: 2,  ref: '2. Ibrahim Omer (2008). The Expansion of Kerma: A-Group and C-Group. www.ancientsudan.org, Monday. April 8, 20019.', url: 'http://www.ancientsudan.org/history_02_cultures.htm'},
+         {id: 3,  ref: '3. Ibrahim Omer (2008). Remarks on Palace Architectures. www.ancientsudan.org, Monday. April 8, 20019.', url: 'http://www.ancientsudan.org/arthistory_07_plce.htm'},
+         {id: 4,  ref: '4. University College London. Faience in Nubia, Napatan and Meroitic Period. ttps://www.ucl.ac.uk/museums-static/digitalegypt/nubia/faience.html, Monday. April 8, 20019.', url: 'https://www.ucl.ac.uk/museums-static/digitalegypt/nubia/faience.html'},
+         {id: 5,  ref: '5. Ellis, L., Newman, R., & Barsanti, M. (2007). Replication of Glazed Quartzite from Kerma, Capital of Ancient Kush (Sudan). MRS Proceedings, 1047, 1047-Y07-03. doi:10.1557/PROC-1047-Y07-03 ', url: 'https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/replication-of-glazed-quartzite-from-kerma-capital-of-ancient-kush-sudan/A2EA043AF2A07D2BD7571DFCE592836C'},
+         {id: 6,  ref: '6. Owen Jarus (2017).  Ancient Nubia: A Brief History. www.livescience.com, Monday. April 8, 20019.', url: 'https://www.livescience.com/57875-ancient-nubia.html'},
+         {id: 7,  ref: '7. Ibrahim Omer (2008). Observations on the Deffufas of Kerma. www.ancientsudan.org, Monday. April 8, 20019.', url: 'http://www.ancientsudan.org/arthistory_01_kermatemples.htm'},
+         {id: 8,  ref: '8. Ibrahim Omer (2008). Burials Kerma. www.ancientsudan.org, Monday. April 8, 20019.', url: 'http://www.ancientsudan.org/burials_03_kerma.htm'},
+         {id: 9,  ref: '9. Eisa, K. A. (1999). Le mobilier et les coutumes funéraires koushites a l’époque méroïtique. Wiesbaden: Harrassowitz., translation by SenseOfHumerus', url: ''},
+         {id: 10,  ref: '10. Timothy Kendall. BLACK KINGDOMS OF THE NILE EPISODE: RACISM AND THE REDISCOVERY OF ANCIENT NUBIA. www.pbs.org, Monday. April 8, 20019.', url: 'https://www.pbs.org/wonders/Episodes/Epi1/1_retel1.htm'},
+         {id: 11,  ref: '11. Owen Jarus (2012). Karnak: Temple Complex of Ancient Egypt. www.livescience.com, Monday. April 8, 20019.', url: 'https://www.livescience.com/25184-karnak-temple.html'},
+         {id: 12,  ref: '12. Kendall, Timothy. The 25th Dynasty Archived 2009-04-30 at the Wayback Machine. Nubia Museum Archived 2009-06-15 at the Wayback Machine: Aswan', url: ''},
+         {id: 13,  ref: '13. Kendall, Timothy. The Meroitic State: Nubia as a Hellenistic African State. 300 B.C.-350 AD Archived 2006-05-05 at the Wayback Machine. Nubia Museum Archived 2009-06-15 at the Wayback Machine:Aswan', url: 'http://www.numibia.net/nubia/meroe.htm'},
+         {id: 14,  ref: '14. John Rogers. “Purify Yourselves!” Piye’s Victory Stele as Theological Statement. Written for Introduction to Ancient Egyptian History and Civilisation 2', url: 'http://gorffennol.swansea.ac.uk/wp-content/uploads/2016/04/John-Rogers.pdf'},
+         {id: 15,  ref: '15. Van de Mieroop, M. (2011). A history of ancient Egypt. Chichester, West Sussex ; Malden, MA: Wiley-Blackwell.', url: 'https://books.google.com/books?id=JADDYAZ9GIIC&pg=PA338&lpg=PA338&dq=Meroitic+culture+shows+much+Egyptian+influence,+always+mixed+with+local+ideas.+Many+temples+housed+cults+to+Egyptian+gods+like+Amun+(called+Amani)+and+Isis&source=bl&ots=09Zy0_sZkE&sig=ACfU3U0XvKcKeJ20FixLfS-tV7M9JWVmHQ&hl=en&sa=X&ved=2ahUKEwiw_ZenpLzhAhXyUt8KHY4TD18Q6AEwAnoECAkQAQ#v=onepage&q=Meroitic%20culture%20shows%20much%20Egyptian%20influence%2C%20always%20mixed%20with%20local%20ideas.%20Many%20temples%20housed%20cults%20to%20Egyptian%20gods%20like%20Amun%20(called%20Amani)%20and%20Isis&f=false'},
+         {id: 16,  ref: '16. "Neolithic Skywatchers - Archaeology Magazine Archive". www.archaeology.org. Retrieved 2018-03-14', url: 'https://archive.archaeology.org/online/news/nubia.html'},
+         {id: 17,  ref: 'Depuydt, Leo (1998). "Gnomons at Meroë and Early Trigonometry". The Journal of Egyptian Archaeology. 84: 171–180. doi:10.2307/3822211. JSTOR 3822211', url: ''},
+         {id: 1,  ref: '18. William Y. Adams (1965). "Architectural Evolution of the Nubian Church, 500-1400 A.D". Journal of the American Research Center in Egypt
+         Vol. 4 (1965), pp. 87-139 (53 pages)', url: 'https://www.jstor.org/stable/40001005?read-now=1&refreqid=excelsior%3A2faaafd994db3fce6b33cd3b0116f789&seq=5#page_scan_tab_contents'},
+         {id: 19,  ref: 'Kieron Monks. $150 homes revive ancient techniques to fight climate crisis, CNN', url: 'https://www.cnn.com/2016/12/30/africa/nubian-homes/index.html'},
+         {id: 1,  ref: '20. "The Qustul Incense Burner". The Oriental Institute. Retrieved 2 April 2019.', url: 'https://oi.uchicago.edu/museum-exhibits/nubia/qustul-incense-burner'},
+         {id: 1,  ref: '21. "C-Group Culture". The Oriental Institute. Retrieved 2 April 2019.', url: 'https://oi.uchicago.edu/museum-exhibits/nubia/c-group-culture'},
+         {id: 1,  ref: '22. Ismail Kamal Kushkush. Sudan''s Ancient Mosque Discovery. IslamOnline.net,Thu. Nov. 13, 2008.', url: ''}
          
     ]
 ---
