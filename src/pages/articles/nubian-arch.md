@@ -78,13 +78,13 @@ Early Nubian architecture was found in the A-Group culture(c. 3800 BC to c. 3100
 
 Excavations at an A-Group cemetery in <a href="https://en.wikipedia.org/wiki/Qustul">Qustul</a> yielded an old incense burner, which was adorned with Ancient Egyptian royal iconography:
 
-<i>"This incense burner is distinctively Nubian in form. Carved in the technique of Nubian rock art, it is decorated on the rim with typical Nubian designs. It was found in the tomb of a Nubian ruler at Qustul and incorporates images associated with Egyptian pharaohs: a procession of sacred boats, the White Crown of Upper Egypt, a falcon deity, and the palace facade called a serekh. It appears to represent a ritual that involved a royal procession by boat to a palace.
+<blockquote>"This incense burner is distinctively Nubian in form. Carved in the technique of Nubian rock art, it is decorated on the rim with typical Nubian designs. It was found in the tomb of a Nubian ruler at Qustul and incorporates images associated with Egyptian pharaohs: a procession of sacred boats, the White Crown of Upper Egypt, a falcon deity, and the palace facade called a serekh. It appears to represent a ritual that involved a royal procession by boat to a palace.
 
 The scenes depicted on the Qustul Incense Burner have excited considerable interest and discussion - why would seemingly Egyptian symbols have been used in Nubia?
 
 One interpretation is that Nubian A-Group rulers and early Egyptian pharaohs used related royal symbols. Similarities in rock art of A-Group Nubia and Upper Egypt support this position.
 
-Another view suggests that the decoration was carved by Nubians in imitation of Egyptian art and rituals. In this perspective, A-Group Nubian rulers would have emulated the symbols of Egyptian pharaohs, whose prestige and power were evident."[20]</i>
+Another view suggests that the decoration was carved by Nubians in imitation of Egyptian art and rituals. In this perspective, A-Group Nubian rulers would have emulated the symbols of Egyptian pharaohs, whose prestige and power were evident."[20]</blockquote>
 
 The A-Group culture came to an end around 3100 BC, when it was destroyed by the First Dynasty rulers of Egypt.
 
