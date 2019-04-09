@@ -97,7 +97,7 @@ export default ({ data }) => {
                 return ( 
                   
                       <div style={{ padding: ` .5rem` , margin:`0px`}}  key={i}>
-                           <span style={{color: `grey`, margin: `.5rem`, padding: `0rem`}}> {item.ref} {" "}
+                           <span style={{align:`justify`,color: `grey`, margin: `.5rem`, padding: `0rem`}}> {item.ref} {" "}
                            {item.url.length===0?'': <a href={item.url}>Link</a>}
                            </span>
                       </div>
