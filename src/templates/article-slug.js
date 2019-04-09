@@ -107,7 +107,7 @@ export default ({ data }) => {
      }
      </div>
      </div>
-    </Layout>
+    </Layout> 
   )
 }
 
