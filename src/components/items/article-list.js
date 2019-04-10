@@ -10,7 +10,7 @@ export default props => (
               
                     <h3 className={styles.title}>{props.title}{" "}
                         <span className={styles.greyout}>
-                           {props.date ==null?'': '('+props.date+')'} 
+                        {props.date ==null||props.date.length===0?'': '('+props.date+')'}  
                         </span>
                     </h3>
               

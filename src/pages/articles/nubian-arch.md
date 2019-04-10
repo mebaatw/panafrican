@@ -102,14 +102,15 @@ The C-Group culture was related to the Kerma Culture. Archeologists uncovered se
 
 <blockquote> The planning of the major Pre-Kerma settlement, in the locality of the Eastern Kerma Cemetery, reveals an urban architectural system, where monumental buildings, rectangular storage houses, cattle pens, palisades, and storehouses were uncovered. Exceptionally large huts, with one reaching 7 meters in diameter, found there have been interpreted by some as residence of wealthy individuals.
 <br/><br/>
-Moreover, a large number of buildings were found within the expanded town of Kerma... Several buildings have been identified as royal residences; usually consisting of interconnected rooms and courtyard enclosures.
+Moreover, a large number of buildings were found within the expanded town of Kerma... Several buildings have been identified as royal residences; usually consisting of interconnected rooms and courtyard enclosures.<br/><br/>
 
 The architectural materials, structures, and the presence of staircases in most of the palaces suggest that they were mostly built of more than one floor. The majority of them had rectangular or square plans with long corridors and narrow rectangular rooms; a hallway was usually present after passing through the main entrance.<sup>[3]</sup> </blockquote>
 
 <br/>
 <h3> <a href="/kerma-city">Kerma</a> </h3>
 <hr/>
-
+<h4 style="margin:0px;text-align:center;"> Kerma City</h4>
+<img src="/static/nubian-arch-Kerma_city - Copy-60cbe153f90710cba240df9c72707c46.jpg" alt="Kerma City"  style="padding:0px; margin:0px;"/>
 Kerma (also known as Dukki Gel) was the capital city of the Kerma culture in present-day Sudan. Kerma was settled around 2500 BCE. 
 
 It was a walled city containing a religious building, large circular dwelling, a palace, and well laid out roads. 
@@ -158,6 +159,8 @@ The Nubian Pharaohs, such as <a href="https://en.wikipedia.org/wiki/Taharqa">Tah
 
 <a href="/subsaharan/jebel-barkal">Jebel Barkal</a> was of much spiritual significance to Nubian pharaohs. They held pharaonic coronation and consulted its oracle. It was thought to be the dwelling place of the deity Amun at the <a href="https://en.wikipedia.org/wiki/Temple_of_Amun,_Jebel_Barkal"> Temple of Amun</a> (B500). 
 
+<img src="/static/nubian-arch_JebelBarkalGroundPlan-27c266f7699d6d510159b4ae32cb8c2d.jpg" alt=""/>
+
 The Temple of Amun was originally built during the Egyptian New Kingdom but greatly enhanced by the Nubian King <a href="https://en.wikipedia.org/wiki/Piye">Piye</a>:
 
 <blockquote>Piye was certainly remembered not as a conquering overlord, but as a just and great ancestor: He was later deified, with examples such as “Piankhi-yerike-qa” – “Begotten of the deified Piankhi” (Macadam, 1949, p.73). Posterity remembered him well as a holy king who
@@ -205,9 +208,9 @@ Meroë is considered to be the largest archaeological site in the world. It cont
 
 The culture shows a mixture of indigenous and Egyptian influences:
 
-<blockquote>"Meroitic culture shows much Egyptian influence, always mixed with local ideas. Many temples housed cults to Egyptian gods like Amun (called Amani) and Isis, but indigenous deities received royal patronage as well. A very prominent Nubian god was the lion-deity Apedemak, a god of war whose popularity increased substantially in this period. Local gods were often associated with Egyptian ones: in Lower Nubia, Mandulis, for example, was considered to be Horus's son. <br/><br/>
+<blockquote>"Meroitic culture shows much Egyptian influence, always mixed with local ideas. Many temples housed cults to Egyptian gods like Amun (called Amani) and Isis, but indigenous deities received royal patronage as well. A very prominent Nubian god was the lion-deity <a href="https://en.wikipedia.org/wiki/Apedemak">Apedemak</a>, a god of war whose popularity increased substantially in this period. Local gods were often associated with Egyptian ones: in Lower Nubia, <a href="http://www.per-ankh.co.uk/monuments_of_egypt/gods_and_goddesses/mandulis_-_sun_god_of_lower_nubia.asp">Mandulis</a>, for example, was considered to be Horus's son. <br/><br/>
 
-Hybridity is also visible in the arts and in royal ideology. For example, kings of Meroe were represented in monumental images on temples in Egyptian fashion but with local elements, such as garments, crowns, and weapons.<sup>[15]</sup></blockquote>
+Hybridity is also visible in the arts and in royal ideology. For example, <a href="https://en.wikipedia.org/wiki/List_of_monarchs_of_Kush">kings of Meroe</a> were represented in monumental images on temples in Egyptian fashion but with local elements, such as garments, crowns, and weapons.<sup>[15]</sup></blockquote>
 
 
 The ancient Nubians established a system of geometry including early versions of sun clocks. Many are located at the sites of Meroë.The ancient Nubians used a trigonometric methodology similar to the Egyptians.<sup>[17]</sup>
@@ -227,13 +230,13 @@ The Christianization of Nubia began in the 6th century AD. Its most representati
 
 Construction of the churches varried depending on climate of and region:
 
-<blockquote>Cut stone, generally quarried from nearby temples, was the preferred material for the earliest Nubian churches. Roughly dressed native stone, laid in heavy mortar, was also employed. There was some use of mud brick in the smaller churches from the beginning, and in later centuries it became the almost universal building material. Only in the extreme north and the extreme south of Nubia - both areas subject to occasional rainfall - was there some continued use of stone in later times. Red (fired) brick was rarely used except for repairs and secondary construction. Only one church in Lower Nubia, at Faras West, was built primarily of red brick. On the other hand, several churches in Upper Nubia, at Sai, Old Dongola (Church of the Columns), Gandesi, and El Usheir, appear to have been built of red brick.<br/><br/>
+<blockquote>Cut stone, generally quarried from nearby temples, was the preferred material for the earliest Nubian churches. Roughly dressed native stone, laid in heavy mortar, was also employed. There was some use of mud brick in the smaller churches from the beginning, and in later centuries it became the almost universal building material. Only in the extreme north and the extreme south of Nubia - both areas subject to occasional rainfall - was there some continued use of stone in later times. Red (fired) brick was rarely used except for repairs and secondary construction. Only one church in Lower Nubia, at <a href="https://www.revolvy.com/page/Faras-Cathedral">Faras West</a>, was built primarily of red brick. On the other hand, several churches in Upper Nubia, at <a href="https://medievalsaiproject.wordpress.com/2009/09/06/the-cathedral-of-sai/">Sai</a>, <a href="https://www.ancient.eu/Old_Dongola/">Old Dongola (Church of the Columns)</a>, Gandesi, and El Usheir, appear to have been built of red brick.<br/><br/>
 
 Many if not all of the earliest churches had flat, timbered roofs which were supported on monolithic columns. However, suitable timber soon became scarce, and in later centuries all Nubian churches had vaulted brick roofs, often with a central dome or cupola. Because of the peculiar unwieldiness of the Nubian vault, this method of construction necessitated in every case the replacement of stone columns by stout masonry piers. The last church in Lower Nubia to be built with columns and (presumably) a flat roof was the South Kom Church at Faras, dedicated in 930 AD...
 
 The external plan of the Nubian church is almost invariably a simple rectangle, having its long axis east-west...
 
-Both the overall size of the church building and the proportion of length of width diminished continually during the Christian period. The earliest churches were consistently large, long and narrow. The Basilica at Kasr Ibrim, built probably in the 6th or 7th Century, is the largest known church in Nubia, measuring 3 X 19m. The length width ratio in the early churches averaged 1.67 to 1, and sometimes reached 2 to 1. At the end of the Christian period the dimensions of most churches were under 10m., and the plan was virtually square. The total area covered by the building diminished by 90%, from an average 350sqm. to 35sqm.
+Both the overall size of the church building and the proportion of length of width diminished continually during the Christian period. The earliest churches were consistently large, long and narrow. The Basilica at <a href="https://en.wikipedia.org/wiki/Qasr_Ibrim">Kasr Ibrim</a>, built probably in the 6th or 7th Century, is the largest known church in Nubia, measuring 3 X 19m. The length width ratio in the early churches averaged 1.67 to 1, and sometimes reached 2 to 1. At the end of the Christian period the dimensions of most churches were under 10m., and the plan was virtually square. The total area covered by the building diminished by 90%, from an average 350sqm. to 35sqm.
 ...
 The first Nubian churches, whose plan included a narthex, were entered from the west, either by a single door in the center of the west wall or by doors at the extreme western ends of the side (north and south) walls, or both. However, the narthex went out of fashion almost at once, and the mode of entry was altered accordingly. Almost all Nubian churches from the 7th Century onward were entered by doors in the north and the south walls located slightly to the west of the center of the building...
 <sup>[18]</sup></blockquote>

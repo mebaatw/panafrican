@@ -16,7 +16,7 @@ export default ({ data }) => {
   return (
     <Layout>
      <div  style={{ maxWidth: 3050, padding: ` 1rem`, margin: '.0rem' }}>
-        <h1 style={{textAlign: `center`,padding: `30px`, margin: '.0rem'}}>{post.frontmatter.title}</h1>
+        <h1 style={{textAlign: `center`,padding: `5px`, margin: '.3rem'}}>{post.frontmatter.title}</h1>
        { post.html===null?"": <div dangerouslySetInnerHTML={{ __html: post.html }} />}
        
 
@@ -154,6 +154,9 @@ export const query = graphql`
              fluid(maxWidth: 1000){
               ...GatsbyImageSharpFluid
              }
+             original{
+              src
+            }
            }
          }
        }
